@@ -1,0 +1,13 @@
+# Keep the image context to what the build needs.
+.git
+.gitignore
+.gitattributes
+.dockerignore
+README.md
+tools/
+logs/
+tmp/
+*.exe
+*.log
+*.jsonl
+*.jsonl.gz
